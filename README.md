@@ -1,6 +1,6 @@
 # Blog Website
 
-🔗 **Live Demo:** [Blog Website](https://vaishnav-agarwal-blog-application.netlify.app/)
+ **Live Demo:** [Blog Website](https://vaishnav-agarwal-blog-application.netlify.app/)
 
 A full-stack **Blog Website** project built with a React front-end and a FastAPI back-end.  
 This repository is split into two parts:
@@ -10,7 +10,7 @@ This repository is split into two parts:
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (signup/login)
 - Create, Read, Update, Delete (CRUD) blog posts
@@ -21,7 +21,7 @@ This repository is split into two parts:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer       | Technology                              |
 |-------------|-----------------------------------------|
@@ -33,7 +33,7 @@ This repository is split into two parts:
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (>= 16)
@@ -43,7 +43,7 @@ This repository is split into two parts:
 
 ---
 
-### 🔹 Front-End Setup
+###  Front-End Setup
 ```bash
 # Clone repo
 git clone https://github.com/Vaishnav00769/Blog_Website_Front_End.git
@@ -63,7 +63,7 @@ Runs at: `http://localhost:5173` (default Vite port)
 
 ---
 
-### 🔹 Back-End Setup
+###  Back-End Setup
 ```bash
 # Clone repo
 git clone https://github.com/Vaishnav00769/Blog_Website_Back_End.git
@@ -84,7 +84,7 @@ Runs at: `http://localhost:8000`
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 **Front-End**
 ```
@@ -108,7 +108,7 @@ src/
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 | Endpoint         | Method | Description            |
 |------------------|--------|------------------------|
@@ -122,7 +122,7 @@ src/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork this repo
 2. Create a new branch (`feature/xyz`)
@@ -132,13 +132,13 @@ src/
 
 ---
 
-## 📜 License
+##  License
 
 This project is open source under the **MIT License**.
 
 ---
 
-## 👤 Contact
+##  Contact
 
 **Vaishnav Agarwal**  
 GitHub: [Vaishnav00769](https://github.com/Vaishnav00769)  
